@@ -1,4 +1,3 @@
-- 👋 Hi, [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there,+its+Aarti!!)](https://git.io/typing-svg)
-- 📫 How to reach me aartideokar2003@gmail.com
-- 
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there,+its+Aarti!!)](https://git.io/typing-svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AartiDevkar&show_icons=true&theme=transparent)
 
