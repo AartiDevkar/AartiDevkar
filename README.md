@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AartiDevkar
 - 📫 How to reach me aartideokar2003@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AartiDevkar&show_icons=true&theme=radical)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey there!;Its me Aarti )](https://git.io/typing-svg)
