@@ -1,3 +1,4 @@
+![github-header-image](https://github.com/AartiDevkar/AartiDevkar/assets/97788229/b805b16f-c4af-4f35-8ef2-9f893a7e7d82)
 
 # 👋 Hello, I'm Aarti!
 
@@ -14,7 +15,8 @@ I'm a passionate software developer with a love for creating innovative solution
 ---
 
 ## 🔧 Technologies & Tools
-
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
