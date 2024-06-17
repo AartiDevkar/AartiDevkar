@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/AartiDevkar/AartiDevkar/assets/97788229/b805b16f-c4af-4f35-8ef2-9f893a7e7d82)
+
 
 # 👋 Hello, I'm Aarti!
 
