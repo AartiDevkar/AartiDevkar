@@ -1,5 +1,3 @@
-<!-- Banner Image -->
-![Header](https://your-banner-url.com/banner.png)
 
 # 👋 Hello, I'm Aarti!
 
