@@ -6,7 +6,7 @@
 
 I'm a passionate software developer with a love for creating innovative solutions that make a difference. I'm always eager to learn new technologies and improve my skills.
 
-- 🌱 I’m currently learning **Cyber security fundamentals**
+- 🌱 I’m currently learning **ReactJs**
 - 🎶 I love singing. 
 - 🌳 Nature enthusiast who enjoys hiking and exploring the outdoors.
 - ⚡ Fun fact: I have a keen interest in eco-friendly technologies.
